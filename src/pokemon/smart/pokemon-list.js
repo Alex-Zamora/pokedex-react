@@ -29,7 +29,7 @@ class PokemonList extends Component {
             )
           })
         ) : (
-          <h2>Loading pokémons</h2>
+          <h2>Loading pokemons</h2>
         )}
       </PokemonListLayout>
     )
